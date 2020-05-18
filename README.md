@@ -1,4 +1,4 @@
-# Project Title
+# CodeSignal Challenges
 
 This project depicts different challenges solved on CodeSignal platform during my spare time. 
 Each folder represents particular challenge. 
