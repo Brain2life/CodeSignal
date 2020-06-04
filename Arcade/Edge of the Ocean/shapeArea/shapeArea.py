@@ -6,6 +6,3 @@ def shapeArea(n):
         return 1
     area = (n*n) + (n-1)*(n-1)
     return area
-
-
-print(shapeArea(5))
